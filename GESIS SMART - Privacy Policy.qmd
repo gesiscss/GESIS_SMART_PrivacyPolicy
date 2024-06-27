@@ -1,11 +1,16 @@
 ---
 title: "GESIS | SMART Research App - Privacy Policy"
+project:
+  output-dir: docs
 format:
   html:
     toc: true
     toc-location: right
+    embed-resources: true
 editor: source
+
 ---
+
 
 ::: {.panel-tabset}
 
