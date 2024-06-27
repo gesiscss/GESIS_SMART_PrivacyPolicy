@@ -7,8 +7,6 @@ format:
 editor: source
 ---
 
-<p style="text-align: center;">**(Englisch version below)**</p>
-
 ::: {.panel-tabset}
 
 # German
