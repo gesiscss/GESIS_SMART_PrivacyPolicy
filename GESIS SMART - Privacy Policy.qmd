@@ -35,30 +35,30 @@ Die App nutzt zur Versendung von Nachrichten die Anwendung Firebase Cloud Messag
 
 Die Informationen über den Gerätetyp, die Version des Betriebssystems des vom Nutzer verwendeten mobilen Geräts sowie die Metadaten zu den Umfrageantworten werden für die Dauer der Vertragsbeziehung mit dem Nutzer und für einen Zeitraum von 12 Monaten nach Vertragsbeendigung gespeichert. 
 
-Verantwortlich für diese Datenverarbeitung ist:
+Verantwortlich für diese Datenverarbeitung ist: <br>
 
-GESIS - Leibniz-Institut für Sozialwissenschaften e.V.
-B6, 4-5
-68159 Mannheim
-Postfach 122155
-68072 Mannheim
+GESIS - Leibniz-Institut für Sozialwissenschaften e.V. <br>
+B6, 4-5 <br>
+68159 Mannheim <br>
+Postfach 122155 <br>
+68072 Mannheim <br>
 
-Datenschutzbeauftragte von GESIS – Leibniz-Institut für Sozialwissenschaften e.V. ist:
+Datenschutzbeauftragte von GESIS – Leibniz-Institut für Sozialwissenschaften e.V. ist: <br>
 
-HEC Harald Eul Consulting GmbH
-Datenschutzbeauftragte GESIS
-Auf der Höhe 34
-50321 Brühl
-E-Mail: [Datenschutz-GESIS@he-c.de](Datenschutz-GESIS@he-c.de)
+  HEC Harald Eul Consulting GmbH <br>
+  Datenschutzbeauftragte GESIS <br>
+  Auf der Höhe 34 <br>
+  50321 Brühl <br>
+  E-Mail: [Datenschutz-GESIS@he-c.de](Datenschutz-GESIS@he-c.de) <br>
 
 Eine Weitergabe von personenbezogenen Daten durch GESIS ohne ausdrückliche Zustimmung des Nutzers ist ausgeschlossen. Der Nutzer hat in Bezug auf seine durch GESIS verarbeiteten Daten folgende Rechte:
 
--	Auskunftsrecht, Art. 15 DSGVO
--	Recht auf Berichtigung, Art. 16 DSGVO 
--	Recht auf Löschung („Recht auf Vergessenwerden“), Art. 17 DSGVO
--	Recht auf Einschränkung der Verarbeitung, Art. 18 DSGVO
--	Recht auf Datenübertragbarkeit, Art. 20 DSGVO
--	Widerspruchsrecht, Art. 21 DSGVO
+  -	Auskunftsrecht, Art. 15 DSGVO
+  -	Recht auf Berichtigung, Art. 16 DSGVO 
+  -	Recht auf Löschung („Recht auf Vergessenwerden“), Art. 17 DSGVO
+  -	Recht auf Einschränkung der Verarbeitung, Art. 18 DSGVO
+  -	Recht auf Datenübertragbarkeit, Art. 20 DSGVO
+  -	Widerspruchsrecht, Art. 21 DSGVO
 
 Der Nutzer kann seine Rechte bei der Datenschutzbeauftragten von GESIS unter den oben genannten Kontaktdaten geltend machen.
 Ferner steht dem Nutzer ein Beschwerderecht bei einer Aufsichtsbehörde zu (Art. 77 DSGVO). GESIS empfiehlt allerdings, eine Beschwerde zunächst immer an die Datenschutzbeauftragte von GESIS zu richten.
